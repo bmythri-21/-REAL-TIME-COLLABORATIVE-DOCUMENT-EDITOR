@@ -41,3 +41,4 @@ A powerful, real-time collaborative document editing web application that allows
 
   # output
   
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c6a02738-398e-4813-857d-6105db81048e" />
